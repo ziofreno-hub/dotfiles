@@ -1,0 +1,20 @@
+vim.g.mapleader = " "
+vim.keymap.set('n', '<leader>1', '1gt')
+vim.keymap.set('n', '<leader>2', '2gt')
+vim.keymap.set('n', '<leader>3', '3gt')
+vim.keymap.set('n', '<leader>4', '4gt')
+vim.keymap.set('n', '<leader>5', '5gt')
+vim.keymap.set('n', '<leader>6', '6gt')
+vim.keymap.set('n', '<leader>7', '7gt')
+vim.keymap.set('n', '<leader>8', '8gt')
+vim.keymap.set('n', '<leader>9', '9gt')
+
+vim.keymap.set('n', '<leader>h', '<C-w>h')
+vim.keymap.set('n', '<leader>l', '<C-w>l')
+vim.keymap.set('n', '<leader>k', '<C-w>k')
+vim.keymap.set('n', '<leader>j', '<C-w>j')
+
+vim.keymap.set('n', '<leader>H', '<C-w><S-h>')
+vim.keymap.set('n', '<leader>L', '<C-w><S-l>')
+vim.keymap.set('n', '<leader>K', '<C-w><S-k>')
+vim.keymap.set('n', '<leader>J', '<C-w><S-j>')
